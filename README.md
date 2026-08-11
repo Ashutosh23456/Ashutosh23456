@@ -28,107 +28,88 @@ Excel, and Python.
 
 ---
 
+---
+
 ## 📊 Featured Projects
 
-### 🏆 Power BI Dashboards Portfolio
+### 🏆 Power BI Dashboard Portfolio
 
-A collection of **12 Power BI projects** covering multiple analytical
-domains including:
+A collection of 12 Power BI projects covering different business and
+analytical domains.
 
-- 💰 Financial Analytics
-- 🛒 Retail & Sales Analytics
-- 🌍 Tourism Analytics
-- 👥 Customer Analytics
-- ⚽ Sports Analytics
-- 👨‍💼 Workforce Analytics
-- 🌦️ Weather & Environmental Analytics
-- 📈 Economic Analysis
+**Projects include:**
+- 💰 Bank Loan Analytics
+- 🛒 Grocery Sales Analytics
+- 🏨 Customer Feedback Analytics
+- 🌍 Tourist Analytics
+- 🚗 Tesla Sales Analytics
+- 📱 Mobile Sales Analytics
+- 🚘 Vehicle Sales Analytics
+- 🌎 GDP Analytics
+- ⚽ Football Player Performance
+- 👨‍💼 Production Working Hours
+- 🌦️ Weather & Air Quality
+- 🛍️ Blinkit Sales Analytics
 
-**Skills demonstrated:** Power BI • DAX • Power Query • Data Modeling •
-KPI Development • Data Visualization • Business Intelligence
+**Skills:** Power BI • DAX • Power Query • Data Modeling • Data Visualization
 
-👉 [Explore the Power BI Dashboard Portfolio](https://github.com/Ashutosh23456/Power-BI-Dashboards-)
-
----
-
-### 💰 Bank Loan Applications Dashboard
-
-Interactive financial analytics dashboard analyzing:
-
-- Loan Applications
-- Funded Amount
-- Amount Received
-- Interest Rates
-- Loan Status
-- Loan Purpose
-- Employment Experience
-- Monthly Application Trends
-
-**Tools:** Power BI • DAX • Power Query • Data Modeling
+🔗 **[Explore All Power BI Projects](https://github.com/Ashutosh23456/Power-BI-Dashboards-)**
 
 ---
 
-### 🛒 Grocery Sales Analytics
+### 🤖 Pipeline Crack Detection
 
-Retail analytics dashboard analyzing:
+Computer vision project for detecting pipeline cracks using YOLOv8.
 
-- Sales by Store & Brand
-- Regional Sales
-- Payment Modes
-- Average Order Value
-- Product Categories
-- City-wise Sales
+**Skills:** Python • YOLOv8 • Computer Vision • Deep Learning
 
-**Tools:** Power BI • DAX • Data Visualization
+🔗 **[View Project](https://github.com/Ashutosh23456/Pipeline-Crack-Detection-YOLOv8)**
 
 ---
 
-### 🤖 Pipeline Crack Detection using YOLOv8
+## 🧠 What I Work With
 
-Computer vision project focused on detecting cracks in pipelines using
-YOLOv8.
-
-**Tools:** Python • YOLOv8 • TensorFlow/PyTorch • Computer Vision
-
-👉 [View Project](https://github.com/Ashutosh23456/Pipeline-Crack-Detection-YOLOv8)
+| Area | Skills |
+|---|---|
+| Business Intelligence | Power BI, DAX, Power Query |
+| Data Analysis | SQL, Excel, Python |
+| Data Visualization | Power BI, Matplotlib |
+| Data Processing | Pandas, NumPy |
+| Machine Learning | TensorFlow, YOLOv8 |
+| Databases | SQL |
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced SQL
-- Advanced DAX
-- Power BI Data Modeling
+- Advanced DAX & Power BI
+- Data Modeling
 - Time Intelligence
-- Business Analytics
 - Statistics for Data Analysis
 - Python for Data Analysis
+- Business Intelligence
 
 ---
 
-## 🎯 Career Focus
+## 🎯 Career Goal
 
-I'm currently looking for **entry-level Data Analyst / Business Intelligence
-opportunities** where I can apply data analysis and visualization skills to
-solve real-world business problems.
+I'm looking for **entry-level Data Analyst / Business Intelligence
+opportunities** where I can use data to uncover insights, solve business
+problems, and support data-driven decision making.
 
 ---
 
-## 📈 What I Like Working On
+## 📫 Let's Connect
 
-```text
-Raw Data
-    ↓
-Data Cleaning
-    ↓
-Data Transformation
-    ↓
-Data Modeling
-    ↓
-DAX / SQL Analysis
-    ↓
-Interactive Visualization
-    ↓
-Business Insights
-    ↓
-Data-Driven Decisions
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashutoshshembade">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+Feel free to explore my repositories and Power BI projects.
